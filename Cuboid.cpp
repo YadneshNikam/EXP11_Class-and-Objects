@@ -1,3 +1,6 @@
+//yadnesh  Nikam
+//24070123134
+
 #include <iostream>
 using namespace std;
 class cube{
@@ -14,4 +17,5 @@ int main() {
     cube c;
     cout << "Volume of cube: " << c.volume() << endl;
     return 0;
-}
+
+}/*Volume of cube: 8*/
