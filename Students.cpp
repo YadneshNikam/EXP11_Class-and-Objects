@@ -1,3 +1,6 @@
+// Yadnesh Nikam
+// 2407012134
+
 #include <iostream>
 using namespace std;
 
@@ -38,4 +41,15 @@ int  main(){
     cout<<"CGPA: "<<s2.cgpa<<endl;
 
     return 0;
+
 }
+/*Name: Yadnesh
+Branch: ECE
+Subject: Data Structures
+Year: 2nd
+CGPA: 9.5
+Name: Tanmay
+Branch: ECE
+Subject: DSA
+Year: 2nd
+CGPA: 9*/
