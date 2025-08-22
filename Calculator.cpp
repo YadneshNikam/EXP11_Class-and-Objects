@@ -1,3 +1,5 @@
+//yadnesh Nikam
+// 24070123134
 #include <iostream>
 using namespace std;
 class Calculator {
@@ -33,3 +35,10 @@ int main() {
 
     return 0;
 }
+/*Enter first number: 10
+Enter second number: 20
+Addition: 30
+Subtraction: -10
+Multiplication: 200
+Division: 0.58*/
+
