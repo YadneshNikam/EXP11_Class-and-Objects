@@ -1,3 +1,6 @@
+// Yadnesh Nikam
+//2400123134
+
 #include <iostream>
 using namespace std;
 class car_details{
@@ -36,5 +39,16 @@ int main() {
 
     return 0;
 }
+/*Details of Car 1:
+Car Brand: Toyota
+Car Model: Camry
+Manufacturing Year: 2020
+Price: $24000.5
+
+Details of Car 2:
+Car Brand: Honda
+Car Model: Civic
+Manufacturing Year: 2019
+Price: $22000.8*/
 
 
