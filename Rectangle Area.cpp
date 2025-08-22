@@ -1,3 +1,6 @@
+//yadnesh Nikam
+//24070123134
+
 #include <iostream>
 using namespace std;
 class RectangleArea  {
@@ -21,3 +24,6 @@ int main() {
 
     return 0;
 }
+/*Enter length: 5
+Enter width: 5
+Area of Rectangle: 25*/
